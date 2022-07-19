@@ -1,0 +1,8 @@
+{
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": ["--line-length=79"],
+    "python.pythonpath": "venv/bin/python",
+    "editor.formatOnSave": true,
+    "python.linting.mypyEnable": true,
+    "python.linting.pylintEnable": true
+}
